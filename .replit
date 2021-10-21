@@ -1,0 +1,2 @@
+language = "python3" 
+run = "python LAB1/Q5.py"
